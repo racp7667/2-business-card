@@ -1,0 +1,39 @@
+
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.profile-pic {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 150px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #2b2839;
+    background: #BFD7FF;
+    padding: 20px;
+    border-bottom: 6px solid #5465FF;
+}
+
+h3 {
+    size: 30px;
+}
+
+p{
+    color: #222222;
+}
+
+p:hover{
+    color: #5465FF;
+}
+
+.details {
+    margin: 0 auto;
+    padding: 20px;
+}
